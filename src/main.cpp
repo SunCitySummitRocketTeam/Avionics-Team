@@ -6,9 +6,9 @@ void setup() {
 
 void loop() {
     digitalWrite(PB3, HIGH);
-    delay(1000);
+    delay(250);
     digitalWrite(PB3, LOW);
-    delay(1000);
+    delay(250);
 }
 
 /*
